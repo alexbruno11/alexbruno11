@@ -3,6 +3,8 @@
 ### Hi, I'm Alex Bruno!
 
 
+
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: 
 I'm a student of Full Stack Software Development.
 
@@ -23,7 +25,7 @@ I'm a student of Full Stack Software Development.
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-bruno-866566127/://www.linkedin.com/in/alex-bruno-866566127//)](https://www.linkedin.com/in/alex-bruno-866566127/)
    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/alexbruno11)](https://github.com/alexbruno11)
 
-   <a href="https://github.com/alexbruno11">
+    
   ![Snake animation](https://github.com/alexbruno11/alexbruno11/blob/output/github-contribution-grid-snake.svg)
  
   <div/>
