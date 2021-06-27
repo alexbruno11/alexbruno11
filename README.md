@@ -4,7 +4,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: 
-I'm a student of Full Stack Software Developing.
+I'm a student of Full Stack Software Development.
 
 
 🎓 &nbsp; Studying at Code Club course.
@@ -24,7 +24,7 @@ I'm a student of Full Stack Software Developing.
    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/alexbruno11)](https://github.com/alexbruno11)
 
  
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alexbruno11/alexbruno11/blob/output/github-contribution-grid-snake.svg)
  
   <div/>
 
