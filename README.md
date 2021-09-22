@@ -6,7 +6,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: 
-I'm a student of Full Stack Software Development.
+I'm a Full Stack Software Development.
 
 
 🎓 &nbsp; Studying at Code Club course.
