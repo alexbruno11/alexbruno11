@@ -6,12 +6,16 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: 
-I'm a Full Stack Software Development.
+I'm Front-end Software Developer.
 
-
-🎓 &nbsp; Studying at Code Club course.
-
-🌱 &nbsp; Learning about:
+I am fascinated by how technology can bring solutions to the world.
+My goal is to contribute as much as I can to Front-end applications, getting constant progress and facilities to the users.
+I have been working as a freelancer, developing projects to some companies around my neirborhood.
+   
+Currently doing an immersive course about development to improve my skills and abilities.
+I’m truly believe that connections and professional sharing ideas, projects, can contribute to the mutual knowledge and growth. So feel free to connect
+with me.
+We can be in touch in English and Portuguese
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    
